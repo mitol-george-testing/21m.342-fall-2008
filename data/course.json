@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "81c19a12-2a38-313d-facb-87a92820c039"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Composing for Jazz Orchestra",
+  "course_description": "This class explores composition and arrangement for the large jazz ensemble from 1920s foundations to current postmodern practice. Consideration given to a variety of styles and to the interaction of improvisation and composition. Study of works by Basie, Ellington, Evans, Gillespie, Golson, Mingus, Morris, Nelson, Williams, and others. Open rehearsals, workshops, and performances of student compositions by the MIT Festival Jazz Ensemble and the Aardvark Jazz Orchestra.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.342",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Projects with Examples",
+    "Music",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
